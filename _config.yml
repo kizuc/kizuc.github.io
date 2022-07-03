@@ -40,7 +40,7 @@ nav:
   Home:           
     - '/'
   Categories:           
-    - '/blog/categories/'
+    - '/blog/'
     - { TID: '/blog/tid/' }
     - { java: '/blog/java/' }
     - { database: '/blog/database/' }
