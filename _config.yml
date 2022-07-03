@@ -7,7 +7,7 @@ url: https://kizuc.github.io/
 logo: '/public/logo.png'
 
 # Site configurations
-gems:
+gems: 
   - jekyll-paginate
 markdown: kramdown
 kramdown:
@@ -53,7 +53,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/ham.png
+  image: '/public/img/ham.png'
   # caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
