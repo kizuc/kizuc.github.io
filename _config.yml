@@ -1,7 +1,7 @@
 # Site Info
-title: [블로그 타이틀]
-tagline: [블로그 부제목]
-description: [블로그 설명]
+title: [Think Tank]
+tagline: [Sincerity or Curiosity]
+description: [이것저것 기술하는 블로그]
 baseurl: ''
 url: https://kizuc.github.io/
 logo: '/public/logo.png'
@@ -23,7 +23,7 @@ permalink: pretty
 version: 1.0.0
 
 # About/contact
-author:
+author: kizuc
   name: kizuc
   description: 랄랄라
   contact:
@@ -52,7 +52,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  image: /public/img/ham.png
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
