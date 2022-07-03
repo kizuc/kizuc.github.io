@@ -6,7 +6,7 @@ $orange:   #d28445;
 $yellow:   #f4bf75;
 $green:    #066435;
 $cyan:     #75b5aa;
-$blue:     #247fe6;
+$blue:     #39a9dd;
 $magenta:  #aa759f;
 $brown:    #8f5536;
 $default:  #505050;
@@ -28,5 +28,6 @@ $overlay-sidebar: false;
 
 /* Font stack */
 $font-serif: "PT Serif", Georgia, "Times New Roman", serif;
-$font-sans: "PT Sans", Helvetica, Arial, sans-serif;
+$font-sans: NanumSquare, "Source Sans Pro", "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana, Arial, Dotum, sans-serif;
+/* $font-sans: "PT Sans", Helvetica, Arial, sans-serif; */
 $font-font-awesome: FontAwesome;
