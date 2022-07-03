@@ -40,8 +40,8 @@ nav:
   Home:           
     - '/blog/'
   TIL:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
+    - '/'
+    - { Categories: '/blog/categories/' }s
     - { Tags: '/blog/tags/' }
   report:          
     - '/report/'
