@@ -40,9 +40,9 @@ nav:
   Home:           
     - '/'
   TID:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - '/tid/'
+    - { Categories: '/tid/categories/' }
+    - { Tags: '/tid/tags/' }
   report:          
     - '/report/'
   #Github Project: 
