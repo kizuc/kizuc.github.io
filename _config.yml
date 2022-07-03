@@ -38,18 +38,13 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Categories:           
     - '/blog/'
-    - { TID: '/blog/tid/' }
-    - { java: '/blog/java/' }
-    - { database: '/blog/database/' }
-    - { jsp: '/blog/jsp/' }
-    - { html&css: '/blog/web/' }
-    - { etc: '/blog/etc/' }
+  TID:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  #About:          
-  #  - '/about/'
+  report:          
+    - '/report/'
   #Github Project: 
   #  - 'http://v.github.io/'
   # Search:
