@@ -1,6 +1,6 @@
 # Site Info
 title: Think Tank
-tagline: 'Running Up That Hill'
+tagline: 'Think Tank'
 description: '이것저것 기술하는 블로그'
 baseurl: ""
 url: http://kizuc.github.io
@@ -57,7 +57,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/ham.png
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  # caption: Original Artwork &copy; deang
 
 # Puglins
 mathjax: true # whether support mathjax
