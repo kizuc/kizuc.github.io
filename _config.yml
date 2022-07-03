@@ -41,7 +41,8 @@ nav:
     - '/blog/'
   Category:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
+    - { Categories: '/blog/TIL/' }
+    - { Categories: '/blog/etc/' }
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
