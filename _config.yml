@@ -41,13 +41,13 @@ nav:
     - '/'
   Categories:           
     - '/blog/'
-    - { TID: '/blog/tid/' }
-    - { java: '/blog/java/' }
-    - { database: '/blog/database/' }
-    - { jsp: '/blog/jsp/' }
-    - { html&css: '/blog/web/' }
-    - { etc: '/blog/etc/' }
-    - { Tags: '/blog/tags/' }
+    - { TID: '/tid/' }
+    - { java: '/java/' }
+    - { database: '/database/' }
+    - { jsp: '/jsp/' }
+    - { html&css: '/web/' }
+    - { etc: '/etc/' }
+    - { Tags: '/tags/' }
   #About:          
   #  - '/about/'
   #Github Project: 
