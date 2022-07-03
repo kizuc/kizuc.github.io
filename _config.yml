@@ -30,7 +30,7 @@ author:
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/kizuc
-    # facebook:  <hide>
+    #facebook:  <hide>
     #twitter:   https://twitter.com/Li_Zhihao
     #weibo:     http://weibo.com/41173780
     email:     kizucc@gmail.com
@@ -39,8 +39,8 @@ author:
 nav:
   Home:           
     - '/'
-  Category:           
-    - '/blog/category/'
+  Categories:           
+    - '/blog/categories/'
     - { TID: '/blog/tid/' }
     - { java: '/blog/java/' }
     - { database: '/blog/database/' }
