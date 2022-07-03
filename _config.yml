@@ -45,9 +45,9 @@ nav:
     - { etc: '/blog/categories/#etc' }
     - { report: '/blog/categories/#report' }
     - { Tags: '/blog/tags/' }
-  Report:          
-    - '/about/'
-  #Github Project: 
+  # Report:          
+  #  - '/about/'
+  # Github Project: 
   #  - 'http://v.github.io/'
   # Search:
   #  - '/search/'
