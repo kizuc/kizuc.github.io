@@ -41,11 +41,15 @@ nav:
     - '/blog/'
   Category:           
     - '/blog/'
-    - { Categories: '/blog/TIL/' }
-    - { Categories: '/blog/etc/' }
+    - { TID: '/blog/tid/' }
+    - { java: '/blog/java/' }
+    - { database: '/blog/database/' }
+    - { jsp: '/blog/jsp/' }
+    - { html&css: '/blog/web/' }
+    - { etc: '/blog/etc/' }
     - { Tags: '/blog/tags/' }
-  About:          
-    - '/about/'
+  #About:          
+  #  - '/about/'
   #Github Project: 
   #  - 'http://v.github.io/'
   Search:
