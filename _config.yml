@@ -17,7 +17,7 @@ sass:
   style: compressed
   sass_dir: _scss    
 paginate: 5
-paginate_path: '/TIL/page:num'
+paginate_path: '/blog/page:num'
 permalink: pretty
 
 version: 1.0.0
@@ -40,9 +40,14 @@ nav:
   Home:           
     - '/'
   Categories:           
-    - '/TIL/'
-    - { Categories: '/TIL/categories/' }
-    - { Tags: '/TIL/tags/' }
+    - '/blog/'
+    - { TID: '/blog/tid/' }
+    - { java: '/blog/java/' }
+    - { database: '/blog/database/' }
+    - { jsp: '/blog/jsp/' }
+    - { html&css: '/blog/web/' }
+    - { etc: '/blog/etc/' }
+    - { Tags: '/blog/tags/' }
   #About:          
   #  - '/about/'
   #Github Project: 
@@ -51,8 +56,8 @@ nav:
   #  - '/search/'
 
 # Where are tags and categories displayed
-tag_page: '/TIL/tags/'
-category_page: '/TIL/categories/'
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
 
 hero:
   image: /public/img/ham.png
