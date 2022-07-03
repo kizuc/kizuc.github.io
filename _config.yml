@@ -38,9 +38,9 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/blog/'
-  Category:           
     - '/'
+  Category:           
+    - '/blog/category/'
     - { TID: '/blog/tid/' }
     - { java: '/blog/java/' }
     - { database: '/blog/database/' }
