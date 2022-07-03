@@ -51,8 +51,8 @@ nav:
   #  - '/search/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/tid/tags/'
+category_page: '/tid/categories/'
 
 hero:
   image: /public/img/ham.png
