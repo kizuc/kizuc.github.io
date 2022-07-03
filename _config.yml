@@ -40,7 +40,7 @@ nav:
   Home:           
     - '/blog/'
   Category:           
-    - '/blog/'
+    - '/'
     - { TID: '/blog/tid/' }
     - { java: '/blog/java/' }
     - { database: '/blog/database/' }
@@ -52,8 +52,8 @@ nav:
   #  - '/about/'
   #Github Project: 
   #  - 'http://v.github.io/'
-  Search:
-    - '/search/'
+  # Search:
+  #  - '/search/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
