@@ -41,10 +41,11 @@ nav:
     - '/blog/'
   TIL:           
     - '/'
-    - { Categories: '/blog/categories/' }s
+    - { Categories: '/blog/categories/' }
+    - { etc: '/blog/categories/#etc' }
     - { Tags: '/blog/tags/' }
-  report:          
-    - '/report/'
+  #report:          
+  #  - '/report/'
   #Github Project: 
   #  - 'http://v.github.io/'
   # Search:
