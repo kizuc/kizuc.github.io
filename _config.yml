@@ -33,6 +33,7 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
+<<<<<<< HEAD
   Home:
     - '/blog/'
   Categories:
@@ -43,6 +44,16 @@ nav:
     - { jsp : '/blog/categories/#jsp' }
     - { report : '/blog/categories/#report' }
     - { etc : '/blog/categories/#etc' }
+=======
+  Home:           
+    - '/'
+  Categories:           
+    - '/blog/'
+    - { TIL: '/blog/#TIL' }
+    - { Categories: '/blog/categories/' }
+    - { etc: '/blog/#etc' }
+    - { report: '/blog/#report' }
+>>>>>>> 02dcd4f5204041428afff1915cfed34e512bb0d4
     - { Tags: '/blog/tags/' }
   About:
     - '/about/'
@@ -60,3 +71,4 @@ mathjax: true # whether support mathjax
 google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: '' # leave blank if you don't want disqus
 
+exclude: [vendor]
