@@ -40,11 +40,11 @@ nav:
   Home:           
     - '/blog/'
   Categories:           
-    - '/blog/'
-    - { TIL: '/blog/#TIL' }
-    - { etc: '/blog/#etc' }
-    - { report: '/blog/#report' }
-    - { Tags: '/blog/tags/' }
+    - '/blog/categories/'
+    - { TIL: '/blog/categories/#TIL' }
+    - { etc: '/blog/categories/#etc' }
+    - { report: '/blog/categories/#report' }
+    - { Tags: '/blog/categories/tags/' }
   # Report:          
   #  - '/about/'
   # Github Project: 
