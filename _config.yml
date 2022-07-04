@@ -41,9 +41,9 @@ nav:
     - '/blog/'
   Categories:           
     - '/blog/categories'
-    - { TIL: '/blog/#TIL' }
-    - { etc: '/blog/#etc' }
-    - { report: '/blog/#report' }
+    - { TIL: '/blog/categories/#TIL' }
+    - { etc: '/blog/categories/#etc' }
+    - { report: '/blog/categories/#report' }
     - { Tags: '/blog/tags/' }
   # Report:          
   #  - '/about/'
