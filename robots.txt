@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap:https://milkyway103.github.io/sitemap.xml
