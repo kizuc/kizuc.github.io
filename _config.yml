@@ -38,11 +38,10 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Categories:           
     - '/blog/'
+  Categories:           
+    - '/blog/categories'
     - { TIL: '/blog/#TIL' }
-    - { Categories: '/blog/categories/' }
     - { etc: '/blog/#etc' }
     - { report: '/blog/#report' }
     - { Tags: '/blog/tags/' }
