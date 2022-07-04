@@ -1,0 +1,39 @@
+---
+title: "페이지 이동의 종류와 차이"
+except: "JSP/javascript"
+
+categories: TIL
+tags: [ TIL, jsp ]
+
+date: 2022-07-04
+---
+
+
+## 페이지 이동 종류와 차이점
+### response.sendRedirect()
+```java
+<%
+response.sendRedirect("주소");
+%>
+```
+URL 창이 이동할 페이지로 전환되면서 이동한다. 데이터를 공유할 수 없다.
+
+### location.href, window.open
+```javascript
+<script type="text/javascript">
+location.href = "주소";
+</script>
+```
+자바스크립트 코드로 새로고침이 되지 않고 뒤로 가지 않는다.
+
+### forward 액션태그
+```java
+<jsp:forward page="주소" />
+```
+데이터를 공유하면서 페이지 이동이 가능하다.
+
+출처 https://blog.naver.com/jung_w_w/130190739042
+https://maribel.tistory.com/40
+
+<br>
+<br>
