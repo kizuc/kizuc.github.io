@@ -1,7 +1,7 @@
 # Site Info
-title: Think Tank
-tagline: 'Think Tank'
-description: '이것저것 기술하는 블로그'
+title: "Think Tank"
+tagline: "Think Tank"
+description: "이것저것 기술하는 블로그"
 baseurl: ""
 url: http://kizuc.github.io
 logo: '/public/logo.png'
