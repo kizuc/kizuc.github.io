@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "custom2" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : ""
-title                    : "Think Tank"
+title                    : "The 나아가는 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kizuc"
@@ -109,8 +109,8 @@ author:
   name             : "kizuc"
   avatar           : "/assets/img/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Running Up That Hill"
-  location         : "South Korea"
-  email            : 
+  # location         : "South Korea"
+  # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
