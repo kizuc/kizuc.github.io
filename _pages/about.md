@@ -26,5 +26,5 @@ padding: 5px;
 ## Contact
  * Email : kizucc@gmail.com
  * Git : [https://github.com/kizuc](https://github.com/kizuc)
- * Blog : [https://kijik.tistory.com/](https://kijuk.tistory.com/)
+ * Blog : [https://kijuk.tistory.com/](https://kijuk.tistory.com/)
 
