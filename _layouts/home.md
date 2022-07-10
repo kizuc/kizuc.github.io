@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /home/
 title: "About"
 excerpt: "About Me"
 toc: true
